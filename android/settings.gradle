@@ -1,0 +1,3 @@
+rootProject.name = 'ali_ali_3055'
+
+include ':app'
